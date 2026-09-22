@@ -11,7 +11,7 @@ let package = Package(
             targets: ["AppodealUnityAdapterWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/appodeal/Appodeal-Swift-Package.git", .upToNextMajor(from: "4.0.0-alpha.1")),
+        .package(url: "https://github.com/appodeal/Appodeal-Swift-Package.git", .upToNextMajor(from: "4.0.0")),
         .package(url: "https://github.com/Unity-Technologies/Unity-Ads-Swift-Package", exact: "4.20.0"),
     ],
     targets: [
