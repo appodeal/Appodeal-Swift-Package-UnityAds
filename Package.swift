@@ -27,8 +27,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppodealUnityAdapter",
-            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealUnityAdapter/4.20.0.0/a48f86419a9f/AppodealUnityAdapter.xcframework.zip",
-            checksum: "a48f86419a9fbc8185886baa2ffa5a2b5fd3a9d46085d18eacd94695bfc560a4"
+            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealUnityAdapter/4.20.0.1/cee9943155cf/AppodealUnityAdapter.xcframework.zip",
+            checksum: "cee9943155cfa9d45e97f01d04389aae68bf17534dad36dbdb906ba3f7320d9a"
         ),
 
     ]
