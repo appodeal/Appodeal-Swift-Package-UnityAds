@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/appodeal/Appodeal-Swift-Package.git", .upToNextMajor(from: "4.0.0")),
-        .package(url: "https://github.com/Unity-Technologies/Unity-Ads-Swift-Package", exact: "4.20.0"),
+        .package(url: "https://github.com/Unity-Technologies/Unity-Ads-Swift-Package", exact: "4.21.0"),
     ],
     targets: [
         .target(
@@ -27,8 +27,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppodealUnityAdapter",
-            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealUnityAdapter/4.20.0.1/cee9943155cf/AppodealUnityAdapter.xcframework.zip",
-            checksum: "cee9943155cfa9d45e97f01d04389aae68bf17534dad36dbdb906ba3f7320d9a"
+            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealUnityAdapter/4.21.0.0/edb847537dd6/AppodealUnityAdapter.xcframework.zip",
+            checksum: "edb847537dd69ca3d70976aae12a94e882715f9a9f1ac14568a0316f7ad3b430"
         ),
 
     ]
